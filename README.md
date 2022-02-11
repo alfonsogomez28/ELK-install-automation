@@ -1,6 +1,6 @@
 # Cloud Network
 
-Collection of Linux Scripts and Ansible Scripts create to help ease ELK server startup.
+Collection of Linux Scripts and Ansible Scripts created to help ease ELK server startup.
 
 Most of the scripts are used to configure cloud servers with different docker containers.
 
