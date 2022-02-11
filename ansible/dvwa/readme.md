@@ -1,2 +1,2 @@
 ### Install DVWA on webserbers
-### Run `ansible-playbook /path/to/pentest.yml`
+Run `ansible-playbook /path/to/pentest.yml`
