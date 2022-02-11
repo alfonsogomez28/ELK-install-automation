@@ -1,4 +1,4 @@
-<p style="text-align: center;"> # Cloud Network</p>
+# Cloud Network
 ---
 ## Collection of Linux Scripts and Ansible Scripts create to help ease ELK server startup.
 
