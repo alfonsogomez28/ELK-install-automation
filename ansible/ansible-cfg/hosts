@@ -23,13 +23,13 @@
 #192.168.1.100
 #192.168.1.110
 #Make sure these private IPs match your network IPs
-10.0.0.6 ansible_python_interpreter=/usr/bin/python3
+10.0.0.4 ansible_python_interpreter=/usr/bin/python3
 10.0.0.5 ansible_python_interpreter=/usr/bin/python3
-10.0.0.8 ansible_python_interpreter=/usr/bin/python3
+10.0.0.6 ansible_python_interpreter=/usr/bin/python3
 
 # IP of elk server
 [elk]
-10.1.0.4 ansible_python_interpreter=/usr/bin/python3
+10.1.0.8 ansible_python_interpreter=/usr/bin/python3
 # If you have multiple hosts following a pattern you can specify
 # them like this:
 
